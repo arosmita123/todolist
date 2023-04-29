@@ -1,0 +1,35 @@
+#container{
+    border: 2px solid black;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+}
+#container ul{
+    list-style: none;
+    padding: 0px;
+}
+
+#container .input{
+    width: 88%;
+}
+
+#container .btn{
+    width: 60px;
+}
+#container li{
+    color: blue;
+    font-size: 20px;
+}
+
+#container li a{
+    float: right;
+    font-weight: bold;
+    color: #000;
+    text-decoration: none;
+}
+#container #error{
+    font-size: 20px;
+    color: blueviolet;
+    
+}
+
